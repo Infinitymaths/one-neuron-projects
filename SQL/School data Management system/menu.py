@@ -110,8 +110,6 @@ def menu_func(host_name, user_name, user_password) :
                                              print("Previous course of "+str(acct_no)+" is "+str(row[5]))
                                         string1 = input("Enter the course name:- ")
                                         # final = value+' '+string1
-                                        print((string1))
-                                        print("update student_details set course_name= '"+string1+"' where roll_no="+str(acct_no))
                                         cur.execute("update student_details set course_name= '"+string1+"' where roll_no="+str(acct_no))
                                         conn.commit()
                                         print("record updated")

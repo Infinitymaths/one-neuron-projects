@@ -32,7 +32,7 @@ def Database_Create(host_name, user_name, user_password):
 
 
 
-def customer_table(host_name, user_name, user_password) :
+def student_table(host_name, user_name, user_password) :
      """Funcion to create customer's details' table
 
      Args:

@@ -2,9 +2,9 @@ import getpass
 import  mysql.connector as sql
 from loging_func import log_thisError
 
-from main_bank import main_bank
+from main_school import main_school
 from menu import menu_func
-from tables import customer_table, user_table
+from tables import student_table, user_table
 
 # If you wish to change the name of your database change 'DB_NAME' variable in all other scritps
 
@@ -27,11 +27,11 @@ try:
             log_thisError(e)
 
 
-    customer_table(hostname, username, passwrd)
+    student_table(hostname, username, passwrd)
     # transaction_table(hostname, username, passwrd)
     user_table(hostname, username, passwrd)
 
-    main_bank(hostname, username, passwrd)
+    main_school(hostname, username, passwrd)
 except Exception as e:
     print(e)
     log_thisError(e)
