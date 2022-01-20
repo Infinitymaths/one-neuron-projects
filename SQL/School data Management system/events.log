@@ -1,0 +1,25 @@
+ERROR:root:STUDENT Data table already existed 1050 (42S01): Table 'student_details' already exists
+ERROR:root:USER Data table already existed 1050 (42S01): Table 'user_table' already exists
+ERROR:root:1054 (42S22): Unknown column 'etrx' in 'field list'
+ERROR:root:STUDENT Data table already existed 1050 (42S01): Table 'student_details' already exists
+ERROR:root:USER Data table already existed 1050 (42S01): Table 'user_table' already exists
+ERROR:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sql where roll_no=1813111' at line 1
+ERROR:root:STUDENT Data table already existed 1050 (42S01): Table 'student_details' already exists
+ERROR:root:USER Data table already existed 1050 (42S01): Table 'user_table' already exists
+ERROR:root:1054 (42S22): Unknown column 'etrx' in 'field list'
+ERROR:root:STUDENT Data table already existed 1050 (42S01): Table 'student_details' already exists
+ERROR:root:USER Data table already existed 1050 (42S01): Table 'user_table' already exists
+ERROR:root:INVALID INPUT : Enter From menu only !!
+ERROR:root:STUDENT Data table already existed 1050 (42S01): Table 'student_details' already exists
+ERROR:root:USER Data table already existed 1050 (42S01): Table 'user_table' already exists
+ERROR:root:INVALID INPUT : Enter From menu only !!
+ERROR:root:STUDENT Data table already existed 1050 (42S01): Table 'student_details' already exists
+ERROR:root:USER Data table already existed 1050 (42S01): Table 'user_table' already exists
+ERROR:root:STUDENT Data table already existed 1050 (42S01): Table 'student_details' already exists
+ERROR:root:USER Data table already existed 1050 (42S01): Table 'user_table' already exists
+ERROR:root:STUDENT Data table already existed 1050 (42S01): Table 'student_details' already exists
+ERROR:root:USER Data table already existed 1050 (42S01): Table 'user_table' already exists
+ERROR:root:STUDENT Data table already existed 1050 (42S01): Table 'student_details' already exists
+ERROR:root:USER Data table already existed 1050 (42S01): Table 'user_table' already exists
+ERROR:root:STUDENT Data table already existed 1050 (42S01): Table 'student_details' already exists
+ERROR:root:USER Data table already existed 1050 (42S01): Table 'user_table' already exists
