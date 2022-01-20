@@ -19,31 +19,38 @@ There is a file named as _requirements.txt_, so just download it and then open _
 This is data managemnet system providing basic functions as follows
 
 - Register 
-  - To enter the Data of new account in Database
+  - To enter the Data of new Student in Database
 - login
   - To fetch the data from Database
  
  _If chosen login, a menu will be provided as follows_
  
  ## Menu 
- 1. Create a Bank account
- 2. Transaction
- 3. Customer Details
- 4. Transaction Details
- 5. Delete Account
+ 1. Create a New Student Record.
+ 2. Update the course of a particular student
+ 3. Student Details
+ 4. Course Details
+ 5. Delete Record
  6. Quit
 
 ## Important Things I wish to inform
-- This is basic (Not very basic though, but still basic 😁) project. It does not have very much advanced features like 
-  - Proper transaction managment
-  - Account number and Phone number rules
-  - GUI
-  - And some other things
-  - 
+- This is very basic project which was designed for practicing the integration of PYTHON and SQL(But not that basic, since logging and other functionalities is also added✌). It does not have very much advanced features like 
+  - Proper integration like different tables for different things like student details, Course details,Marks obtained, etc.
+  - Then some rules for the phone number,email, etc.
+  - GUI or website integration like for a Frontend
+  - etc. 
 ## So, Run the code in your system. Learn things. Modify as per your liking and Enjoy ✨!!
+## Please do give a _STAR_
 
 
 ## Other Documentation for reference
 
-- [SQL Querries and Commands](https://www.w3schools.com/sql/)
+- [SQL Queries and Commands](https://www.w3schools.com/sql/)
 - [MySQL with python operations](https://dev.mysql.com/doc/dev/connector-python/8.0/tutorials.html) - To learn about how to use [mysql-python-connector](https://dev.mysql.com/doc/dev/connector-python/8.0/installation.html) library
+
+## Project contributor (If you want you can contribute in this repo too and you name and github link too)
+#### To do :- _[your name](link of the github profile)_
+1. [Sharath Dinesh](https://github.com/Infinitymaths)
+
+# Thank you so much
+
